@@ -11,9 +11,6 @@ import android.support.v4.app.FragmentStatePagerAdapter;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.view.MenuItem;
-import android.widget.Button;
-import android.widget.Toast;
-
 
 public class ScreenSlidePagerActivity extends FragmentActivity {
 
